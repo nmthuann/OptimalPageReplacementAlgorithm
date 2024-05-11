@@ -1,0 +1,15 @@
+ Họ và Tên: Nguyễn Minh Thuận
+Lớp: D19CQCN03_N
+ MSSV: N19DCCN202
+
+Em chào thầy, sau đây em sẽ mô phỏng giải thuật thay thế trang theo thuật toán tối ưu (OPT) 
+	
+
+Bộ các trang: 7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 1
+Số trang: 20
+Số Khung: 3
+kết quả: Tổng số lỗi trang là 9 
+
+Em cảm ơn thầy đã xem video demo này !!!!
+
+Link Drive: https://drive.google.com/drive/u/1/folders/1ajSsdxFg8unR-ZUP_qXIfGq0hlHddqGQ
